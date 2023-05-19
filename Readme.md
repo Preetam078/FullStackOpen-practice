@@ -1,0 +1,1 @@
+This project consist of all the important practice for full stack open course.
